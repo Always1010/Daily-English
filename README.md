@@ -1,6 +1,6 @@
 ## Daily English
 
-# day1
+# day1(22.10.12)
 >**p154~156**  
 operative  
 migrant  
