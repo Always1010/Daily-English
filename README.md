@@ -26,7 +26,7 @@ criterion
 queer  
 liberal  
 theme  
-anglogue  
+analogue  
 thereafter  
 mistress  
 promising  
