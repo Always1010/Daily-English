@@ -6,7 +6,8 @@
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc --># Daily English  
+<!-- /vscode-markdown-toc -->
+# Daily English  
 My vocabulary book  
 
 ##  1. <a name='day122.10.12'></a>day1(22.10.12)
