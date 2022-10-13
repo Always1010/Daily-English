@@ -1,7 +1,15 @@
-## Daily English  
+<!-- vscode-markdown-toc -->
+* 1. [day1(22.10.12)](#day122.10.12)
+* 2. [day2(22.10.13)](#day222.10.13)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc --># Daily English  
 My vocabulary book  
 
-# day1(22.10.12)
+##  1. <a name='day122.10.12'></a>day1(22.10.12)
 >**p154~156**  
 operative  
 migrant  
@@ -32,7 +40,7 @@ thereafter
 mistress  
 promising  
 
-# day2(22.10.13)
+##  2. <a name='day222.10.13'></a>day2(22.10.13)
 >**p229~232**  
 generous  
 peep  
