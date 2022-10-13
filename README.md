@@ -55,7 +55,7 @@ circumstance
 stagnate  
 utilize  
 equip  
-contradick  
+contradict  
 infringe  
 deport  
 
