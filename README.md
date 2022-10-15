@@ -69,3 +69,34 @@ contradict
 infringe  
 deport  
 
+##  3. <a name='day222.10.15'></a>day2(22.10.15)
+>**p223~235**  
+quartz  
+consumption  
+versus  
+perch  
+disable  
+orient  
+coral  
+estimate  
+miniature  
+ferry  
+distract  
+corporal  
+archive  
+owl  
+irony  
+venture  
+contrive  
+accelerate  
+enroll  
+constrain  
+refreshment  
+utmost  
+vent  
+council  
+sacrifice  
+consult  
+penguin  
+efficiency  
+
