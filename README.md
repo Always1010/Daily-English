@@ -4,6 +4,8 @@ My vocabulary book
 <!-- vscode-markdown-toc -->
 * 1. [day1(22.10.12)](#day122.10.12)
 * 2. [day2(22.10.13)](#day222.10.13)
+* 3. [day2(22.10.15)](#day222.10.15)
+* 4. [day2(22.10.16)](#day222.10.16)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -99,4 +101,37 @@ sacrifice
 consult  
 penguin  
 efficiency  
+
+
+##  4. <a name='day222.10.16'></a>day2(22.10.16)
+>**p36~39**  
+dub  
+relentless  
+flutter  
+rash  
+competitive  
+stitch  
+character  
+reminiscent  
+adversary  
+corpse  
+advent  
+martyr  
+outfit  
+beak  
+heel  
+chamber  
+romance  
+dispatch  
+foe  
+fiscal  
+maritime  
+tournament  
+community  
+desire  
+bamboo  
+dazzle  
+flirt  
+relic  
+tranquil  
 
