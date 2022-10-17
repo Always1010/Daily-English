@@ -4,8 +4,9 @@ My vocabulary book
 <!-- vscode-markdown-toc -->
 * 1. [day1(22.10.12)](#day122.10.12)
 * 2. [day2(22.10.13)](#day222.10.13)
-* 3. [day2(22.10.15)](#day222.10.15)
-* 4. [day2(22.10.16)](#day222.10.16)
+* 3. [day3(22.10.15)](#day322.10.15)
+* 4. [day4(22.10.16)](#day422.10.16)
+* 5. [day5(22.10.17)](#day522.10.17)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -71,7 +72,7 @@ contradict
 infringe  
 deport  
 
-##  3. <a name='day222.10.15'></a>day2(22.10.15)
+##  3. <a name='day322.10.15'></a>day3(22.10.15)
 >**p223~235**  
 quartz  
 consumption  
@@ -103,7 +104,7 @@ penguin
 efficiency  
 
 
-##  4. <a name='day222.10.16'></a>day2(22.10.16)
+##  4. <a name='day422.10.16'></a>day4(22.10.16)
 >**p36~39**  
 dub  
 relentless  
@@ -134,4 +135,36 @@ dazzle
 flirt  
 relic  
 tranquil  
+
+
+##  5. <a name='day522.10.17'></a>day5(22.10.17)
+>**p298~300**  
+predominate  
+descendant  
+vulnerable  
+cooperative  
+augment  
+burglar  
+client  
+investigate  
+garment  
+lesbian  
+wallet  
+optimum  
+crouch  
+bud  
+advantage  
+capsule  
+exposition  
+cancel  
+ward  
+claim  
+achievement  
+creation  
+beneficial  
+lens  
+compile  
+insurance  
+commitment  
+reputation
 
