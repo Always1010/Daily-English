@@ -1,5 +1,14 @@
-# Daily English  
+# English Learning  
 My vocabulary book  
+- [English Learning](#english-learning)
+	- [1. day1(22.10.12)](#1-day1221012)
+	- [2. day2(22.10.13)](#2-day2221013)
+	- [3. day3(22.10.15)](#3-day3221015)
+	- [4. day4(22.10.16)](#4-day4221016)
+	- [5. day5(22.10.17)](#5-day5221017)
+	- [6. day6(22.10.20)](#6-day6221020)
+	- [7. day7(22.10.23)](#7-day7221023)
+
 
 <!-- vscode-markdown-toc -->
 * 1. [day1(22.10.12)](#day122.10.12)
@@ -7,6 +16,8 @@ My vocabulary book
 * 3. [day3(22.10.15)](#day322.10.15)
 * 4. [day4(22.10.16)](#day422.10.16)
 * 5. [day5(22.10.17)](#day522.10.17)
+* 6. [day6(22.10.20)](#day622.10.20)
+* 7. [day7(22.10.23)](#day722.10.23)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -169,7 +180,7 @@ commitment
 reputation
 
 
-## day6(22.10.20)
+##  6. <a name='day622.10.20'></a>day6(22.10.20)
 >**p322~327**  
 disperse  
 bewilder  
@@ -224,4 +235,83 @@ simulate
 witness  
 lounge  
 worthwhile  
+
+
+
+##  7. <a name='day722.10.23'></a>day7(22.10.23)
+>**p310~313**  
+warehouse  
+negative  
+oath  
+minimum  
+chant  
+ancestor  
+cherish  
+offspring  
+salute  
+doctrine  
+military  
+auxiliary  
+motel  
+presumably  
+warfare  
+plateau  
+configuration  
+distribution  
+professional  
+compatible  
+proposition  
+commonplace  
+overflow  
+warrant  
+span  
+reel  
+enrich  
+region  
+dean  
+watertight  
+convey  
+pressure  
+parallel  
+absorb  
+glow  
+realistic  
+rarely  
+litter  
+
+
+##day8(2022.10.24)
+>**p82~84
+fascinate  
+rhetoric  
+trillion  
+depot  
+mindset  
+garlic  
+accustomed  
+clergy  
+merit  
+ridge  
+shark  
+benign  
+superintendent  
+depreciate  
+manuscript  
+genre  
+trim  
+rigid  
+orthodox  
+airborne  
+cliche  
+original  
+misery  
+precious  
+regime  
+negotiate  
+superior  
+glacier  
+inventory  
+momentous  
+smuggle  
+
 
